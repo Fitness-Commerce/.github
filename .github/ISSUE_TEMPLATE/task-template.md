@@ -1,7 +1,7 @@
 ---
 name: 업무 생성 템플릿
 about: 새로운 기능 또는 기능 개선을 제안해주세요
-title: "[Server|Client] 간결하게 기능 설명"
+title: "[front|back] 간결하게 기능 설명"
 labels: 'feature'
 assignees: ''
 
