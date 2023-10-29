@@ -1,5 +1,10 @@
 # Health-Market+ <a href=""><img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 
+## 프로젝트 기간
+
+ 23.08.16 ~ 23.10.06
+ <br><br>
+
 ## 담당역할
 
 <table>
