@@ -1,30 +1,74 @@
-# Fitness-Commerce
+# Health-Market+ <a href=""><img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
 
+## 담당역할
+
+<table>
+<tr>
+<td>원동건(FE)</td>
+<td></td>
+</tr>
+<tr>
+<td>조성준(FE)</td>
+<td></td>
+</tr>
+<tr>
+<td>김병훈(BE)</td>
+<td> </td>
+</tr>
+<tr>
+<td>정지원(BE)</td>
+<td></td>
+</tr>
+<tr>
+<td>박종수(BE)</td>
+<td></td>
+</tr>
+</table>
+
+<br><br>
+
+"health market+"는 건강한 라이프스타일을 추구하는 이용자들을 위한 안전하고 간편한 중고 거래 커뮤니티입니다.
+운동과 웰빙에 대한 열정을 공유하며, 운동 기구부터 건강 관련 상품까지 다양한 상품을 만나보세요. 건강한 미래를 위한 첫걸음을 "health market+"에서 시작하세요.
+<br><br>
+
+
+## ✏️사용 기술
+<div align='center'>
+<h3>Front-end</h3>
+<img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
 <br/>
-
-## projects 사용법 및 이슈 컨벤션 정리
-https://zero-study-2.notion.site/projects-issue-649189daf1a24261ae8dcd71ea2a469d?pvs=4
-
-| 이슈 유형 | 설명 |
-| --------- | ---- |
-| front | 프런트 업무 |
-| back | 백엔드 업무 |
-| bug | 버그 발생시 해결 요청 |
-| question | 질문 사항 있을시 |
-
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
 <br/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white">
+<img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
 
-## Pull Request, Commit 을 Issue 에 연결하는 방법
-1. *Pull Request 설명(description)에 이슈 번호 언급하기*
-
+<h3>Back-end</h3>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <br/>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/jpa-6DB33F?style=for-the-badge&logo=jpa&logoColor=white">
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
 
-![image](https://github.com/Fitness-Commerce/.github/assets/128919388/35bba93e-34e6-4094-974e-0e210e5681b1)
+<br><br>
 
-2. *Pull Request 생성 후 연결 진행하기*<br/>
-풀 리퀘스트가 생성된 후에도, 이슈와 연결하려면 풀 리퀘스트 페이지로 이동한 다음 'Linked issues' 영역에서 이슈를 선택하면 됩니다.<br/>
-3. *Commit에 이슈 번호 포함시키기*<br/>
-커밋 메시지 작성 시 이슈 번호를 샵(해시태그) 기호와 함께 포함하여 커밋하세요.
-예를 들어, **"Fix : 프런트 버그 해결 related to #123"**와 같이 작성합니다.
+### ✅ 요구사항 명세서
 
-<br/>
+<br><br>
+
+### ✅ API Document
+
+<br><br>
+
+### ✅ 협업규칙
+
