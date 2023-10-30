@@ -80,3 +80,4 @@
 
 ### ✅ 협업규칙
 
+https://zero-study-2.notion.site/zero-study-2/projects-issue-649189daf1a24261ae8dcd71ea2a469d
