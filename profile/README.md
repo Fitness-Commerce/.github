@@ -70,6 +70,12 @@
 
 <br><br>
 
+### ✅ ERD
+<div align='center'>
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdLo5Ur%2FbtszCF8bMFZ%2F509IUbDVcl77tLzHDDbzK0%2Fimg.png">
+</div>
+<br><br>
+
 ### ✅ 요구사항 명세서
 
 <br><br>
