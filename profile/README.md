@@ -17,7 +17,7 @@
 </tr>
 <tr>
 <td>조성준(FE)</td>
-<td></td>
+<td>회원, 로그인, 대시보드 기능 개발</td>
 </tr>
 <tr>
 <td>김병훈(BE)</td>
@@ -29,7 +29,7 @@
 </tr>
 <tr>
 <td>박종수(BE)</td>
-<td></td>
+<td>상품 게시판 및 댓글 기능 개발</td>
 </tr>
 </table>
 
@@ -67,12 +67,6 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
-
-<br><br>
-
-
-
-### ✅ 요구사항 명세서
 
 <br><br>
 
